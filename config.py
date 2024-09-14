@@ -4,22 +4,22 @@ id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # pyro client config
-    API_ID    = os.environ.get("API_ID", 7414019)
-    API_HASH  = os.environ.get("API_HASH", "d463ed3d695f5cd4164029405ad8388e")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6868232253:AAFskRgUwqfWE9nDg443lRWHgYFrReAb2Nk")
+    API_ID    = os.environ.get("API_ID", 20718334)
+    API_HASH  = os.environ.get("API_HASH", "4e81464b29d79c58d0ad8a0c55ece4a5")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7226201611:AAEYVTSgYRJujoWgISogJWzSt6Ltf9p5vUg")
    
     # database config
-    DB_NAME = os.environ.get("DB_NAME","Zoro")
+    DB_NAME = os.environ.get("DB_NAME","zoro")
     DB_URL  = os.environ.get("DB_URL","mongodb+srv://owaisnae92:glassone1@zoro.zelrmhx.mongodb.net/?retryWrites=true&w=majority&appName=zoro")
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "https://telegra.ph/file/0624f0e874718a066a3f6.mp4")
-    ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '1350488685').split()]
-    FORCE_SUB_1 = os.environ.get("FORCE_SUB_1", "EdgeBotSupport")
-    FORCE_SUB_2 = os.environ.get("FORCE_SUB_2", "EdgeBots")
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1001863937035))
-    DUMP_CHANNEL = int(os.environ.get("DUMP_CHANNEL", "-1002131803512"))
+    START_PIC   = os.environ.get("START_PIC", "https://graph.org/file/96ad3e2e58da9ded5d4ac.jpg")
+    ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '5585016974').split()]
+    FORCE_SUB_1 = os.environ.get("FORCE_SUB_1", "anime_sub_society")
+    FORCE_SUB_2 = os.environ.get("FORCE_SUB_2", "team_society_1")
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1002015354644))
+    DUMP_CHANNEL = int(os.environ.get("DUMP_CHANNEL", "-1002159303069"))
 
     # wes response configuration     
     WEBHOOK = bool(os.environ.get("WEBHOOK", True))
@@ -34,7 +34,7 @@ class Txt(object):
 🫧 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇᴅ ʀᴇɴᴀᴍᴇ ʙᴏᴛ!
 ᴡʜɪᴄʜ ᴄᴀɴ ᴍᴀɴᴜᴀʟʟʏ ʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ғɪʟᴇs ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ ᴀɴᴅ ᴛʜᴜᴍʙɴᴀɪʟ ᴀɴᴅ ᴀʟsᴏ ᴄᴀɴ sᴇᴛ ᴘʀᴇғɪx ᴀɴᴅ sᴜғғɪx ᴏɴ ʏᴏᴜʀ ғɪʟᴇs.⚡️
 
-✨ ᴛʜɪs ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href=https://github.com/GeekLuffy/>ʟᴜꜰꜰʏ</a>
+✨ ᴛʜɪs ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a https://t.me/i_killed_my_clan>❰⏤͟͞ 𝚯𝗕𝗜𝗧𝗢 -//-❱</a>
 ──────────────────
 ๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴏᴡ ᴛᴏ ᴜsᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.</b>
 """
@@ -63,13 +63,13 @@ Bɪɢ ᴛʜᴀɴᴋs ғᴏʀ ʙᴇɪɴɢ ᴛʜᴇ sᴜᴘᴘᴏʀᴛ sᴜᴘᴇ�
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @GeekLuffy🙏🥲
     ABOUT_TXT = """<b>
-» ᴅᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/GeekLuffy>ʟᴜꜰꜰʏ</a>
-» ɢɪᴛʜᴜʙ :  <a href=https://github.com/GeekLuffy/>ʟᴜꜰꜰʏ</a>
+» ᴅᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/i_killed_my_clan>❰⏤͟͞ 𝚯𝗕𝗜𝗧𝗢 -//-❱'</a>
+» ɢɪᴛʜᴜʙ :  <a href=https://t.me/i_killed_my_clan>ʟᴜꜰꜰʏ</a>
 » ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
 » ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴘʏᴛʜᴏɴ</a>
-» ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/Monkey_d_luufy>ᴇᴅɢᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ</a>
-» ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Edge>ᴀɴɪᴍᴇ ᴇᴅɢᴇ</a>
-» ᴍᴀɪɴ ɢʀᴏᴜᴘ : <a href=https://t.me/straw_hat_piratess>ꜱᴛʀᴀᴡʜᴀᴛ ᴘɪʀᴀᴛᴇꜱ</a></b>"""
+» ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/team_society_1>ᴏʙɪᴛᴏ ʀᴇɴᴀᴍᴇ ʙᴏᴛ</a>
+» ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Sub_Society>ᴀɴɪᴍᴇ sᴏᴄɪᴇᴛʏ</a>
+» ᴍᴀɪɴ ɢʀᴏᴜᴘ : <a href=https://t.me/ahss_help_zone></a>sᴏᴄɪᴇᴛʏ ᴄʜᴀᴛ ᴢᴏɴᴇ</b>"""
 
     META_TXT = """
 **ᴍᴀɴᴀɢɪɴɢ ᴍᴇᴛᴀᴅᴀᴛᴀ ғᴏʀ ʏᴏᴜʀ ᴠɪᴅᴇᴏs ᴀɴᴅ ғɪʟᴇs**
