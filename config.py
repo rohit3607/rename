@@ -19,7 +19,7 @@ class Config(object):
     FORCE_SUB_1 = os.environ.get("FORCE_SUB_1", "anime_sub_society")
     FORCE_SUB_2 = os.environ.get("FORCE_SUB_2", "team_society_1")
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1002015354644))
-    DUMP_CHANNEL = int(os.environ.get("DUMP_CHANNEL", "-1002030312634"))
+    DUMP_CHANNEL = int(os.environ.get("DUMP_CHANNEL", "-1002015354644"))
 
     # wes response configuration     
     WEBHOOK = bool(os.environ.get("WEBHOOK", True))
