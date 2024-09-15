@@ -9,8 +9,8 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7226201611:AAEYVTSgYRJujoWgISogJWzSt6Ltf9p5vUg")
    
     # database config
-    DB_NAME = os.environ.get("DB_NAME","zoro")
-    DB_URL  = os.environ.get("DB_URL","mongodb+srv://owaisnae92:glassone1@zoro.zelrmhx.mongodb.net/?retryWrites=true&w=majority&appName=zoro")
+    DB_NAME = os.environ.get("DB_NAME","Cluster0")
+    DB_URL  = os.environ.get("DB_URL","mongodb+srv://Sukuna:Sukuna123@cluster0.xya73s9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
     # other configs
     BOT_UPTIME  = time.time()
