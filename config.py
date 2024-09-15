@@ -69,7 +69,7 @@ Bɪɢ ᴛʜᴀɴᴋs ғᴏʀ ʙᴇɪɴɢ ᴛʜᴇ sᴜᴘᴘᴏʀᴛ sᴜᴘᴇ�
 » ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴘʏᴛʜᴏɴ</a>
 » ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/team_society_1>ᴏʙɪᴛᴏ ʀᴇɴᴀᴍᴇ ʙᴏᴛ</a>
 » ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Sub_Society>ᴀɴɪᴍᴇ sᴏᴄɪᴇᴛʏ</a>
-» ᴍᴀɪɴ ɢʀᴏᴜᴘ : <a href=https://t.me/ahss_help_zone>sᴏᴄɪᴇᴛʏ ᴄʜᴀᴛ ᴢᴏɴᴇ</a>sᴏᴄɪᴇᴛʏ ᴄʜᴀᴛ ᴢᴏɴᴇ</b>"""
+» ᴍᴀɪɴ ɢʀᴏᴜᴘ : <a href=https://t.me/ahss_help_zone>sᴏᴄɪᴇᴛʏ ᴄʜᴀᴛ ᴢᴏɴᴇ</a></b>"""
 
     META_TXT = """
 **ᴍᴀɴᴀɢɪɴɢ ᴍᴇᴛᴀᴅᴀᴛᴀ ғᴏʀ ʏᴏᴜʀ ᴠɪᴅᴇᴏs ᴀɴᴅ ғɪʟᴇs**
