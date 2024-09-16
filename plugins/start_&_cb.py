@@ -70,7 +70,7 @@ async def cb_handler(client, query: CallbackQuery):
                 InlineKeyboardButton("Hᴏᴡ ᴛᴏ Usᴇ", callback_data='help')
             ], [
                 InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/team_society_1'),
-                InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ', url='https://t.me/ahss_help_zonw')
+                InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ', url='https://t.me/ahss_help_zone')
             ], [
                 InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
                 InlineKeyboardButton('Dᴏɴᴀᴛᴇ', callback_data='donate')
