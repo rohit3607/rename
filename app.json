@@ -19,7 +19,6 @@
         },
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
-            "value": "-1001930406310 -1002155796547",
             "required": false 
         },
         "BOT_TOKEN": {
@@ -28,7 +27,7 @@
         },
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split"
-            "value": "6885162066 5585016974"
+            "value": ""
         },
         "LOG_CHANNEL": {
             "description":"Bot Log Sending Channel (just create a private channel and add bot to admin and take channel id to add this variable) ⚠️ id startswith -100 must",
