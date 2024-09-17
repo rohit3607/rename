@@ -34,11 +34,6 @@
             "description":"Bot Log Sending Channel (just create a private channel and add bot to admin and take channel id to add this variable) ⚠️ id startswith -100 must",
             "required": false
             "value": "-1002078429106"
-            },
-        "DUMP_CHANNEL": {
-            "description":"Bot Log Sending Channel (just create a private channel and add bot to admin and take channel id to add this variable) ⚠️ id startswith -100 must",
-            "required": false
-            "value": "-1002015354644"
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
