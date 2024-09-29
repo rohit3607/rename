@@ -28,8 +28,6 @@
 
 <a href="https://graph.org/file/fabd75cd5043d2cfdc13d.jpg"><img src="https://railway.app/button.svg" alt="Deploy"></a>
 
-## Deploy To Aptible
-[![Deploy to aptible](https://www.aptible.com/static/images/deploy/button.svg)](https://app.aptible.com/deploy?type=git&repository=github.com/Geekluffy/EDGE_RENAME&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[WEBHOOK]=True&env[ADMIN]&env[DB_URL]&env[DB_NAME]=pyro-botz&env[FORCE_SUB]&env[START_PIC]&env[LOG_CHANNEL]=You%20Dont%20Need%20LogChannel%20To%20Remove%20This%20Variable&run_command=python%20bot.py&branch=main&name=pyro-rename)
 
 ## Deploy To Heroku
 
