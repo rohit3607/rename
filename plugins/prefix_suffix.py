@@ -6,7 +6,7 @@ from helper.database import db
 async def add_caption(client, message):
 
     if len(message.command) == 1:
-        return await message.reply_text("**Gɪᴠᴇ Tʜᴇ Pʀᴇғɪx Aʟsᴏ\n\nExᴀᴍᴘʟᴇ:- `/set_prefix [@EdgeBots]`**")
+        return await message.reply_text("**Gɪᴠᴇ Tʜᴇ Pʀᴇғɪx Aʟsᴏ\n\nExᴀᴍᴘʟᴇ:- `/set_prefix [@anime_sub_society]`**")
     prefix = message.text.split(" ", 1)[1]
     EdgeBot = await message.reply_text("Please Wait ...")
     await db.set_prefix(message.from_user.id, prefix)
@@ -40,7 +40,7 @@ async def see_prefix(client, message):
 async def add_csuffix(client, message):
 
     if len(message.command) == 1:
-        return await message.reply_text("**Gɪᴠᴇ Tʜᴇ Sᴜғғɪx\n\nExᴀᴍᴘʟᴇ:- `/set_suffix @Madflix_Bots`**")
+        return await message.reply_text("**Gɪᴠᴇ Tʜᴇ Sᴜғғɪx\n\nExᴀᴍᴘʟᴇ:- `/set_suffix @anime_sub_society`**")
     suffix = message.text.split(" ", 1)[1]
     EdgeBots = await message.reply_text("Please Wait ...")
     await db.set_suffix(message.from_user.id, suffix)
