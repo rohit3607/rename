@@ -242,7 +242,7 @@ async def cb_handler(client, query: CallbackQuery):
 **➜ /del_suffix:** ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴄᴜꜱᴛᴏᴍ ꜱᴜғғɪx.
 **➜ /see_suffix:** ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜꜱᴛᴏᴍ ꜱᴜғғɪx.
             
-ᴇxᴀᴍᴘʟᴇ: /set_prefix [AE] | /set_suffix [AnimeEdge]
+ᴇxᴀᴍᴘʟᴇ: /set_prefix [AS] | /set_suffix [Animesociety]
             """,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
