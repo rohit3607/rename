@@ -24,7 +24,7 @@
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": "7226201611:AAGasefpJoqUdU3WalYlZknEpAfV7FVfak0"
+            "value": "7226201611:AAHvBWWPikHz1ukwzPLmhewkwF7eA_GTsz4"
         },
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split"
@@ -35,7 +35,7 @@
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": "mongodb+srv://Sukuna:Sukuna123@cluster0.xya73s9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+            "value": "mongodb+srv://spxsolo:umaid2008@cluster0.7fbux.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
@@ -44,7 +44,7 @@
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
-            "value": "https://envs.sh/w3g.mp4",
+            "value": "https://envs.sh/GGi.png?L9YiN=1",
             "required": false
         }
     },
