@@ -106,7 +106,7 @@ async def doc(bot, update):
             new_filename = new_filename_
     except:
         await update.message.edit(
-            "⚠️ Something went wrong can't able to set Prefix or Suffix in the File ☹️ \n\n Contact in Support Group for Help -> @EdgeBotSupport")
+            "⚠️ Something went wrong can't able to set Prefix or Suffix in the File ☹️ \n\n Contact in Support Group for Help -> @i_killed_my_clan")
 
     file_path = f"downloads/{new_filename}"
     file = update.message.reply_to_message
