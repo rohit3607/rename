@@ -14,7 +14,7 @@ class Config(object):
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "https://vault.pictures/p/88716d989bc14a8483a7a33d94863906")
+    START_PIC   = os.environ.get("START_PIC", "https://files.catbox.moe/kmkwug")
     ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '5585016974').split()]
     FORCE_SUB_1 = os.environ.get("FORCE_SUB_1", "animes_sub_society")
     FORCE_SUB_2 = os.environ.get("FORCE_SUB_2", "ongoiing_society")
