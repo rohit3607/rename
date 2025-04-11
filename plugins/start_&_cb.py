@@ -46,7 +46,7 @@ async def start(client, message):
     button = InlineKeyboardMarkup([[
         InlineKeyboardButton("Hᴏᴡ ᴛᴏ Usᴇ", callback_data='help')
     ], [
-        InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/team_society_1'),
+        InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/animes_sub_society'),
         InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ', url='https://t.me/ahss_help_zone')
     ], [
         InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
@@ -69,7 +69,7 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup([[
                 InlineKeyboardButton("Hᴏᴡ ᴛᴏ Usᴇ", callback_data='help')
             ], [
-                InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/team_society_1'),
+                InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/animes_sub_society'),
                 InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ', url='https://t.me/ahss_help_zone')
             ], [
                 InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
